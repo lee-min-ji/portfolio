@@ -1,1 +1,1 @@
-# lee-minji.github.io
+# minji-lee.github.io
