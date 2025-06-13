@@ -1,0 +1,38 @@
+/* 나눔스퀘어라운드 */
+@font-face {
+	font-family: 'NanumSquareRound';
+	font-style: normal;
+	font-weight: 200;
+	font-display: swap;
+	src: local('NanumSquareRoundL.woff'), url('NanumSquareRoundL.woff') format('woff'), url('NanumSquareRoundL.ttf') format('truetype'), url('NanumSquareRoundOTFL.otf') format('opentype');
+}
+@font-face {
+	font-family: 'NanumSquareRound';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: local('NanumSquareRoundR.woff'), url('NanumSquareRoundR.woff') format('woff'), url('NanumSquareRoundR.ttf') format('truetype'), url('NanumSquareRoundOTFR.otf') format('opentype');
+}
+@font-face {
+	font-family: 'NanumSquareRound';
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: local('NanumSquareRoundB.woff'), url('NanumSquareRoundB.woff') format('woff'), url('NanumSquareRoundB.ttf') format('truetype'), url('NanumSquareRoundOTFB.otf') format('opentype');
+}
+@font-face {
+	font-family: 'NanumSquareRound';
+	font-style: normal;
+	font-weight: 800;
+	font-display: swap;
+	src: local('NanumSquareRoundEB.woff'), url('NanumSquareRoundEB.woff') format('woff'), url('NanumSquareRoundEB.ttf') format('truetype'), url('NanumSquareRoundOTFEB.otf') format('opentype');
+}
+
+/* 마포꽃섬 */
+@font-face {
+	font-family: 'MapoFlowerIsland';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: local('MapoFlowerIsland.woff'), url('MapoFlowerIsland.woff') format('woff'), url('MapoFlowerIsland.ttf') format('truetype'), url('MapoFlowerIsland.otf') format('opentype');
+}
